@@ -1,0 +1,217 @@
+Controller,Noise_Type,Configuration,Frequency_Limit_Hz,MAE,RMSE
+Standard,white,No noise,0.25,2.851,4.139
+Standard,white,No noise,0.5,5.766,7.348
+Standard,white,No noise,0.75,8.21,10.48
+Standard,white,No noise,1.0,11.024,13.965
+Standard,white,No noise,2.0,23.511,29.483
+Standard,white,No noise,3.0,38.162,47.839
+Standard,white,No noise,5.0,67.158,84.43
+Standard,white,No noise,7.5,67.158,84.43
+Standard,white,No noise,10.0,67.158,84.43
+Standard,white,Delay only,0.25,11.579,16.23
+Standard,white,Delay only,0.5,23.219,31.642
+Standard,white,Delay only,0.75,32.275,43.969
+Standard,white,Delay only,1.0,41.367,54.855
+Standard,white,Delay only,2.0,60.844,77.124
+Standard,white,Delay only,3.0,63.869,80.775
+Standard,white,Delay only,5.0,65.198,81.714
+Standard,white,Delay only,7.5,65.198,81.714
+Standard,white,Delay only,10.0,65.198,81.714
+Standard,white,Sensor noise only,0.25,2.928,4.2
+Standard,white,Sensor noise only,0.5,5.791,7.384
+Standard,white,Sensor noise only,0.75,8.229,10.501
+Standard,white,Sensor noise only,1.0,11.033,13.973
+Standard,white,Sensor noise only,2.0,23.521,29.49
+Standard,white,Sensor noise only,3.0,38.157,47.839
+Standard,white,Sensor noise only,5.0,67.161,84.426
+Standard,white,Sensor noise only,7.5,67.161,84.426
+Standard,white,Sensor noise only,10.0,67.161,84.426
+Standard,white,Delay + Sensor noise,0.25,11.6,16.245
+Standard,white,Delay + Sensor noise,0.5,23.233,31.656
+Standard,white,Delay + Sensor noise,0.75,32.27,43.966
+Standard,white,Delay + Sensor noise,1.0,41.369,54.849
+Standard,white,Delay + Sensor noise,2.0,60.843,77.123
+Standard,white,Delay + Sensor noise,3.0,63.86,80.775
+Standard,white,Delay + Sensor noise,5.0,65.196,81.707
+Standard,white,Delay + Sensor noise,7.5,65.196,81.707
+Standard,white,Delay + Sensor noise,10.0,65.196,81.707
+Standard,pink,No noise,0.25,0.89,3.104
+Standard,pink,No noise,0.5,1.577,3.63
+Standard,pink,No noise,0.75,2.119,4.153
+Standard,pink,No noise,1.0,2.704,4.848
+Standard,pink,No noise,2.0,5.365,8.163
+Standard,pink,No noise,3.0,8.43,12.241
+Standard,pink,No noise,5.0,13.962,20.02
+Standard,pink,No noise,7.5,14.215,20.222
+Standard,pink,No noise,10.0,14.22,20.234
+Standard,pink,Delay only,0.25,3.491,7.41
+Standard,pink,Delay only,0.5,6.073,10.406
+Standard,pink,Delay only,0.75,8.071,13.195
+Standard,pink,Delay only,1.0,10.421,16.24
+Standard,pink,Delay only,2.0,14.895,22.022
+Standard,pink,Delay only,3.0,16.677,23.897
+Standard,pink,Delay only,5.0,18.26,26.29
+Standard,pink,Delay only,7.5,18.048,26.022
+Standard,pink,Delay only,10.0,17.985,25.921
+Standard,pink,Sensor noise only,0.25,1.142,3.189
+Standard,pink,Sensor noise only,0.5,1.733,3.685
+Standard,pink,Sensor noise only,0.75,2.283,4.212
+Standard,pink,Sensor noise only,1.0,2.831,4.918
+Standard,pink,Sensor noise only,2.0,5.488,8.271
+Standard,pink,Sensor noise only,3.0,8.441,12.244
+Standard,pink,Sensor noise only,5.0,13.899,20.004
+Standard,pink,Sensor noise only,7.5,14.066,20.096
+Standard,pink,Sensor noise only,10.0,14.556,20.609
+Standard,pink,Delay + Sensor noise,0.25,3.608,7.283
+Standard,pink,Delay + Sensor noise,0.5,5.919,10.255
+Standard,pink,Delay + Sensor noise,0.75,8.085,13.138
+Standard,pink,Delay + Sensor noise,1.0,10.028,16.139
+Standard,pink,Delay + Sensor noise,2.0,15.322,22.315
+Standard,pink,Delay + Sensor noise,3.0,16.853,24.298
+Standard,pink,Delay + Sensor noise,5.0,18.877,26.809
+Standard,pink,Delay + Sensor noise,7.5,17.983,26.024
+Standard,pink,Delay + Sensor noise,10.0,18.109,25.963
+MPC,white,No noise,0.25,3.909,5.772
+MPC,white,No noise,0.5,7.233,9.289
+MPC,white,No noise,0.75,11.17,14.148
+MPC,white,No noise,1.0,14.724,18.464
+MPC,white,No noise,2.0,28.009,35.075
+MPC,white,No noise,3.0,40.532,50.667
+MPC,white,No noise,5.0,56.133,70.129
+MPC,white,No noise,7.5,56.133,70.129
+MPC,white,No noise,10.0,56.133,70.129
+MPC,white,Delay only,0.25,15.113,20.046
+MPC,white,Delay only,0.5,25.985,34.333
+MPC,white,Delay only,0.75,35.471,46.614
+MPC,white,Delay only,1.0,41.79,54.564
+MPC,white,Delay only,2.0,52.757,66.876
+MPC,white,Delay only,3.0,54.907,69.018
+MPC,white,Delay only,5.0,56.975,71.337
+MPC,white,Delay only,7.5,56.975,71.337
+MPC,white,Delay only,10.0,56.975,71.337
+MPC,white,Sensor noise only,0.25,3.978,5.813
+MPC,white,Sensor noise only,0.5,7.246,9.307
+MPC,white,Sensor noise only,0.75,11.168,14.149
+MPC,white,Sensor noise only,1.0,14.728,18.464
+MPC,white,Sensor noise only,2.0,28.001,35.063
+MPC,white,Sensor noise only,3.0,40.547,50.667
+MPC,white,Sensor noise only,5.0,56.148,70.139
+MPC,white,Sensor noise only,7.5,56.148,70.139
+MPC,white,Sensor noise only,10.0,56.148,70.139
+MPC,white,Delay + Sensor noise,0.25,15.104,20.05
+MPC,white,Delay + Sensor noise,0.5,25.973,34.323
+MPC,white,Delay + Sensor noise,0.75,35.46,46.62
+MPC,white,Delay + Sensor noise,1.0,41.792,54.562
+MPC,white,Delay + Sensor noise,2.0,52.752,66.865
+MPC,white,Delay + Sensor noise,3.0,54.919,69.022
+MPC,white,Delay + Sensor noise,5.0,56.985,71.343
+MPC,white,Delay + Sensor noise,7.5,56.985,71.343
+MPC,white,Delay + Sensor noise,10.0,56.985,71.343
+MPC,pink,No noise,0.25,1.029,4.204
+MPC,pink,No noise,0.5,1.776,4.608
+MPC,pink,No noise,0.75,2.42,5.281
+MPC,pink,No noise,1.0,3.268,6.183
+MPC,pink,No noise,2.0,5.438,8.963
+MPC,pink,No noise,3.0,7.436,11.687
+MPC,pink,No noise,5.0,11.03,16.419
+MPC,pink,No noise,7.5,10.708,16.063
+MPC,pink,No noise,10.0,10.564,15.995
+MPC,pink,Delay only,0.25,4.423,9.758
+MPC,pink,Delay only,0.5,6.229,11.479
+MPC,pink,Delay only,0.75,7.836,13.606
+MPC,pink,Delay only,1.0,9.217,15.44
+MPC,pink,Delay only,2.0,11.854,18.722
+MPC,pink,Delay only,3.0,13.362,20.509
+MPC,pink,Delay only,5.0,14.286,21.566
+MPC,pink,Delay only,7.5,14.279,21.811
+MPC,pink,Delay only,10.0,14.747,22.099
+MPC,pink,Sensor noise only,0.25,1.289,4.285
+MPC,pink,Sensor noise only,0.5,1.891,4.652
+MPC,pink,Sensor noise only,0.75,2.532,5.324
+MPC,pink,Sensor noise only,1.0,3.188,6.045
+MPC,pink,Sensor noise only,2.0,5.389,8.919
+MPC,pink,Sensor noise only,3.0,7.49,11.722
+MPC,pink,Sensor noise only,5.0,10.707,16.061
+MPC,pink,Sensor noise only,7.5,11.268,16.68
+MPC,pink,Sensor noise only,10.0,10.627,16.041
+MPC,pink,Delay + Sensor noise,0.25,4.176,9.236
+MPC,pink,Delay + Sensor noise,0.5,6.289,11.691
+MPC,pink,Delay + Sensor noise,0.75,8.425,14.533
+MPC,pink,Delay + Sensor noise,1.0,9.699,15.818
+MPC,pink,Delay + Sensor noise,2.0,12.122,18.88
+MPC,pink,Delay + Sensor noise,3.0,13.701,20.704
+MPC,pink,Delay + Sensor noise,5.0,14.664,21.741
+MPC,pink,Delay + Sensor noise,7.5,14.189,21.311
+MPC,pink,Delay + Sensor noise,10.0,14.535,21.879
+DeePC,white,No noise,0.25,3.03,5.282
+DeePC,white,No noise,0.5,5.422,7.257
+DeePC,white,No noise,0.75,8.412,10.862
+DeePC,white,No noise,1.0,11.201,14.182
+DeePC,white,No noise,2.0,23.319,29.328
+DeePC,white,No noise,3.0,39.473,49.081
+DeePC,white,No noise,5.0,67.029,84.001
+DeePC,white,No noise,7.5,67.029,84.001
+DeePC,white,No noise,10.0,67.029,84.001
+DeePC,white,Delay only,0.25,12.095,16.964
+DeePC,white,Delay only,0.5,22.115,30.289
+DeePC,white,Delay only,0.75,33.398,44.967
+DeePC,white,Delay only,1.0,42.54,56.36
+DeePC,white,Delay only,2.0,60.584,76.829
+DeePC,white,Delay only,3.0,63.061,79.533
+DeePC,white,Delay only,5.0,65.313,82.237
+DeePC,white,Delay only,7.5,65.313,82.237
+DeePC,white,Delay only,10.0,65.313,82.237
+DeePC,white,Sensor noise only,0.25,3.081,5.114
+DeePC,white,Sensor noise only,0.5,5.446,7.287
+DeePC,white,Sensor noise only,0.75,8.415,10.876
+DeePC,white,Sensor noise only,1.0,11.215,14.192
+DeePC,white,Sensor noise only,2.0,23.316,29.324
+DeePC,white,Sensor noise only,3.0,39.483,49.086
+DeePC,white,Sensor noise only,5.0,67.047,84.017
+DeePC,white,Sensor noise only,7.5,67.047,84.017
+DeePC,white,Sensor noise only,10.0,67.047,84.017
+DeePC,white,Delay + Sensor noise,0.25,12.102,16.973
+DeePC,white,Delay + Sensor noise,0.5,22.112,30.287
+DeePC,white,Delay + Sensor noise,0.75,33.396,44.977
+DeePC,white,Delay + Sensor noise,1.0,42.538,56.357
+DeePC,white,Delay + Sensor noise,2.0,60.583,76.817
+DeePC,white,Delay + Sensor noise,3.0,63.07,79.534
+DeePC,white,Delay + Sensor noise,5.0,65.325,82.241
+DeePC,white,Delay + Sensor noise,7.5,65.325,82.241
+DeePC,white,Delay + Sensor noise,10.0,65.325,82.241
+DeePC,pink,No noise,0.25,0.98,4.356
+DeePC,pink,No noise,0.5,1.498,4.527
+DeePC,pink,No noise,0.75,2.027,4.991
+DeePC,pink,No noise,1.0,2.553,5.508
+DeePC,pink,No noise,2.0,4.714,8.02
+DeePC,pink,No noise,3.0,6.978,11.124
+DeePC,pink,No noise,5.0,12.356,18.222
+DeePC,pink,No noise,7.5,11.938,17.788
+DeePC,pink,No noise,10.0,11.864,17.747
+DeePC,pink,Delay only,0.25,3.492,9.134
+DeePC,pink,Delay only,0.5,5.446,10.773
+DeePC,pink,Delay only,0.75,7.459,13.215
+DeePC,pink,Delay only,1.0,9.099,15.469
+DeePC,pink,Delay only,2.0,12.617,19.988
+DeePC,pink,Delay only,3.0,14.452,22.12
+DeePC,pink,Delay only,5.0,15.269,23.23
+DeePC,pink,Delay only,7.5,15.919,23.995
+DeePC,pink,Delay only,10.0,15.772,23.7
+DeePC,pink,Sensor noise only,0.25,1.275,4.429
+DeePC,pink,Sensor noise only,0.5,1.711,4.603
+DeePC,pink,Sensor noise only,0.75,2.221,5.156
+DeePC,pink,Sensor noise only,1.0,2.698,5.563
+DeePC,pink,Sensor noise only,2.0,4.635,7.959
+DeePC,pink,Sensor noise only,3.0,7.122,11.19
+DeePC,pink,Sensor noise only,5.0,12.213,18.007
+DeePC,pink,Sensor noise only,7.5,11.959,17.793
+DeePC,pink,Sensor noise only,10.0,12.177,17.964
+DeePC,pink,Delay + Sensor noise,0.25,3.525,8.742
+DeePC,pink,Delay + Sensor noise,0.5,5.597,11.149
+DeePC,pink,Delay + Sensor noise,0.75,7.795,13.939
+DeePC,pink,Delay + Sensor noise,1.0,9.252,15.533
+DeePC,pink,Delay + Sensor noise,2.0,12.992,20.193
+DeePC,pink,Delay + Sensor noise,3.0,14.775,22.281
+DeePC,pink,Delay + Sensor noise,5.0,16.556,24.486
+DeePC,pink,Delay + Sensor noise,7.5,16.255,24.064
+DeePC,pink,Delay + Sensor noise,10.0,15.567,23.519
